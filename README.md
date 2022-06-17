@@ -1,6 +1,6 @@
 ## Python - Sytaxt and Basics
 
-`by Ian Raschle / Luuca Jones /Leo Röttele`
+`by Ian Raschle / Luca Jones /Leo Röttele`
 
 - [Protocol](./docs/README_PROTOCOL.md)
 - [Plannign](./docs/README_PLANNING.md)
