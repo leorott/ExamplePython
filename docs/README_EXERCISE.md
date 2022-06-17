@@ -1,4 +1,4 @@
-#Exercise
+# Exercise
 To practise the topics from the presentation you have now the time to create your own little python project. <br/>
 Please create a little grade calculator. This calculator should have a variable with the maximum points. <br/>
 Also implement two methods <br/>
