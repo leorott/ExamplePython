@@ -5,7 +5,7 @@
 
 | task              | person            | description                                                                                             | includes task              |
 |-------------------|-------------------|---------------------------------------------------------------------------------------------------------|----------------------------|
-| Planing           | Luca, Leo, Ian  | Discussing what we want to talk about in our presentation <br> and how we want to explain and display it. | Research, Inputs           |
+| Planning           | Luca, Leo, Ian  | Discussing what we want to talk about in our presentation <br> and how we want to explain and display it. | Research, Inputs           |
 | Powerpoint        | Luca, Leo, Ian  | Creating and styling all the pages of the presentation                                                    | Research, Inputs, Feedback |
 | Code Files        | Luca, Leo, Ian  | Writing code to visualize the theory and shot that the code does actually work                            | Research, Inputs, Feedback |
 | Kahoot            | Leo             | Creating a Kahoot with questions referring to the presentation <br>  in purpose to test the knowledge     | Feedback                   |
