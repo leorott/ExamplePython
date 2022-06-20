@@ -1,4 +1,4 @@
-## Python - Sytax and Basics
+## Python - Syntax and Basics
 
 `by Ian Raschle / Luca Jones / Leo Röttele`
 
